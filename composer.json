@@ -1,0 +1,5 @@
+{
+    "require": {
+        "kartik-v/bootstrap-star-rating": "@dev"
+    }
+}
